@@ -1,770 +1,962 @@
 [
     {
-        "Film": "CinéPass",
+        "Original": "CinéPass",
+        "Corrected": "CinéPass",
         "Note": "Non noté"
     },
     {
-        "Film": "Gladiator II",
+        "Original": "Gladiator II",
+        "Corrected": "Gladiator II",
         "Note": "5.6"
     },
     {
-        "Film": "L'Amour ouf",
+        "Original": "L'Amour ouf",
+        "Corrected": "L'Amour ouf",
         "Note": "6.8"
     },
     {
-        "Film": "JURE N°2",
+        "Original": "JURE N°2",
+        "Corrected": "JURE N°2",
         "Note": "6.8"
     },
     {
-        "Film": "Piece By Piece",
+        "Original": "Piece By Piece",
+        "Corrected": "Piece By Piece",
         "Note": "Non noté"
     },
     {
-        "Film": "Le Panache",
+        "Original": "Le Panache",
+        "Corrected": "Le Panache",
         "Note": "6"
     },
     {
-        "Film": "Venom: The Last Dance",
+        "Original": "Venom: The Last Dance",
+        "Corrected": "Venom: The Last Dance",
         "Note": "4.3"
     },
     {
-        "Film": "Monsieur Aznavour",
+        "Original": "Monsieur Aznavour",
+        "Corrected": "Monsieur Aznavour",
         "Note": "6.5"
     },
     {
-        "Film": "Prodigieuses",
+        "Original": "Prodigieuses",
+        "Corrected": "Prodigieuses",
         "Note": "6.5"
     },
     {
-        "Film": "37 : l'ombre et la proie",
+        "Original": "37 : l'ombre et la proie",
+        "Corrected": "37 : l'ombre et la proie",
         "Note": "5.9"
     },
     {
-        "Film": "The Substance",
+        "Original": "The Substance",
+        "Corrected": "The Substance",
         "Note": "7.1"
     },
     {
-        "Film": "Le Robot Sauvage",
+        "Original": "Le Robot Sauvage",
+        "Corrected": "Le Robot Sauvage",
         "Note": "7.6"
     },
     {
-        "Film": "La Plus Précieuse Des Marchandises",
+        "Original": "La Plus Précieuse Des Marchandises",
+        "Corrected": "La Plus Précieuse Des Marchandises",
         "Note": "7.1"
     },
     {
-        "Film": "Anora",
+        "Original": "Anora",
+        "Corrected": "Anora",
         "Note": "7.2"
     },
     {
-        "Film": "La Vallée des fous",
+        "Original": "La Vallée des fous",
+        "Corrected": "La Vallée des fous",
         "Note": "6"
     },
     {
-        "Film": "Le choix",
+        "Original": "Le choix",
+        "Corrected": "Le choix",
         "Note": "6.4"
     },
     {
-        "Film": "Diamant brut",
+        "Original": "Diamant brut",
+        "Corrected": "Diamant brut",
         "Note": "6.3"
     },
     {
-        "Film": "Finalement",
+        "Original": "Finalement",
+        "Corrected": "Finalement",
         "Note": "4.9"
     },
     {
-        "Film": "Dragons",
+        "Original": "Dragons",
+        "Corrected": "Dragons",
         "Note": "7.5"
     },
     {
-        "Film": "Flow, le chat qui n’avait plus peur de l’eau",
+        "Original": "Flow, le chat qui n’avait plus peur de l’eau",
+        "Corrected": "Flow, le chat qui n’avait plus peur de l’eau",
         "Note": "7.6"
     },
     {
-        "Film": "On aurait dû aller en Grèce",
+        "Original": "On aurait dû aller en Grèce",
+        "Corrected": "On aurait dû aller en Grèce",
         "Note": "4"
     },
     {
-        "Film": "Croquette le chat merveilleux",
+        "Original": "Croquette le chat merveilleux",
+        "Corrected": "Croquette le chat merveilleux",
         "Note": "5.4"
     },
     {
-        "Film": "En tongs au pied de l'Himalaya",
+        "Original": "En tongs au pied de l'Himalaya",
+        "Corrected": "En tongs au pied de l'Himalaya",
         "Note": "6.3"
     },
     {
-        "Film": "3 kilomètres jusqu'à la fin du monde",
+        "Original": "3 kilomètres jusqu'à la fin du monde",
+        "Corrected": "3 kilomètres jusqu'à la fin du monde",
         "Note": "6.8"
     },
     {
-        "Film": "Smile 2",
+        "Original": "Smile 2",
+        "Corrected": "Smile 2",
         "Note": "6.1"
     },
     {
-        "Film": "Le Royaume",
+        "Original": "Le Royaume",
+        "Corrected": "Le Royaume",
         "Note": "6.1"
     },
     {
-        "Film": "Une part manquante",
+        "Original": "Une part manquante",
+        "Corrected": "Une part manquante",
         "Note": "6.6"
     },
     {
-        "Film": "Trois amies",
+        "Original": "Trois amies",
+        "Corrected": "Trois amies",
         "Note": "6.8"
     },
     {
-        "Film": "MacPat le chat chanteur",
+        "Original": "Ma mini-séance : MacPat le chat chanteur",
+        "Corrected": "MacPat le chat chanteur",
         "Note": "Non noté"
     },
     {
-        "Film": "L'histoire de Souleymane",
+        "Original": "L'histoire de Souleymane",
+        "Corrected": "L'histoire de Souleymane",
         "Note": "7.6"
     },
     {
-        "Film": "Kafka, le dernier été",
+        "Original": "Kafka, le dernier été",
+        "Corrected": "Kafka, le dernier été",
         "Note": "Non noté"
     },
     {
-        "Film": "Le comte de Monte-Cristo",
+        "Original": "Le comte de Monte-Cristo",
+        "Corrected": "Le comte de Monte-Cristo",
         "Note": "7.4"
     },
     {
-        "Film": "Transformers : le commencement",
+        "Original": "Transformers : le commencement",
+        "Corrected": "Transformers : le commencement",
         "Note": "6.9"
     },
     {
-        "Film": "Angelo dans la forêt mystérieuse",
+        "Original": "Angelo dans la forêt mystérieuse",
+        "Corrected": "Angelo dans la forêt mystérieuse",
         "Note": "6.3"
     },
     {
-        "Film": "Amaran (version tamoul)",
+        "Original": "Amaran (version tamoul)",
+        "Corrected": "Amaran (version tamoul)",
         "Note": "Non noté"
     },
     {
-        "Film": "Here - Les plus belles années de notre vie",
+        "Original": "Here - Les plus belles années de notre vie",
+        "Corrected": "Here - Les plus belles années de notre vie",
         "Note": "6.7"
     },
     {
-        "Film": "Kanguva (version tamoul)",
+        "Original": "Kanguva (version tamoul)",
+        "Corrected": "Kanguva (version tamoul)",
         "Note": "Non noté"
     },
     {
-        "Film": "Emilia Pérez",
+        "Original": "Emilia Pérez",
+        "Corrected": "Emilia Pérez",
         "Note": "7"
     },
     {
-        "Film": "Mechanic Rocky (version telugu)",
+        "Original": "Mechanic Rocky (version telugu)",
+        "Corrected": "Mechanic Rocky (version telugu)",
         "Note": "Non noté"
     },
     {
-        "Film": "Moi, Moche et Méchant 4",
+        "Original": "Moi, Moche et Méchant 4",
+        "Corrected": "Moi, Moche et Méchant 4",
         "Note": "5.3"
     },
     {
-        "Film": "Vice-Versa 2",
+        "Original": "Vice-Versa 2",
+        "Corrected": "Vice-Versa 2",
         "Note": "6.8"
     },
     {
-        "Film": "Louise Violet",
+        "Original": "Louise Violet",
+        "Corrected": "Louise Violet",
         "Note": "6.4"
     },
     {
-        "Film": "Un p’tit truc en plus",
+        "Original": "Un p’tit truc en plus",
+        "Corrected": "Un p’tit truc en plus",
         "Note": "6.5"
     },
     {
-        "Film": "Barbès, Little Algérie",
+        "Original": "Barbès, Little Algérie",
+        "Corrected": "Barbès, Little Algérie",
         "Note": "5.7"
     },
     {
-        "Film": "Bhairathi Ranagal (version Kannada)",
+        "Original": "Bhairathi Ranagal (version Kannada)",
+        "Corrected": "Bhairathi Ranagal (version Kannada)",
         "Note": "Non noté"
     },
     {
-        "Film": "BLACKKKLANSMAN",
+        "Original": "BLACKKKLANSMAN",
+        "Corrected": "BLACKKKLANSMAN",
         "Note": "7.3"
     },
     {
-        "Film": "Conjuring 2 : Le Cas Enfield",
+        "Original": "Conjuring 2 : Le Cas Enfield",
+        "Corrected": "Conjuring 2 : Le Cas Enfield",
         "Note": "6.4"
     },
     {
-        "Film": "MacPat le chat chanteur",
+        "Original": "MacPat le chat chanteur",
+        "Corrected": "MacPat le chat chanteur",
         "Note": "Non noté"
     },
     {
-        "Film": "LES ANIMAUX FANTASTIQUES : LES CRIMES DE GRINDELWA",
+        "Original": "LES ANIMAUX FANTASTIQUES : LES CRIMES DE GRINDELWA",
+        "Corrected": "LES ANIMAUX FANTASTIQUES : LES CRIMES DE GRINDELWA",
         "Note": "5.5"
     },
     {
-        "Film": "LES ANIMAUX FANTASTIQUES 3 : LES SECRETS DE DUMBLE",
+        "Original": "LES ANIMAUX FANTASTIQUES 3 : LES SECRETS DE DUMBLE",
+        "Corrected": "LES ANIMAUX FANTASTIQUES 3 : LES SECRETS DE DUMBLE",
         "Note": "6.4"
     },
     {
-        "Film": "Conjuring 3 : sous l'emprise du diable",
+        "Original": "Conjuring 3 : sous l'emprise du diable",
+        "Corrected": "Conjuring 3 : sous l'emprise du diable",
         "Note": "5.1"
     },
     {
-        "Film": "Scream VI",
+        "Original": "Scream VI",
+        "Corrected": "Scream VI",
         "Note": "5.1"
     },
     {
-        "Film": "SCREAM",
+        "Original": "SCREAM",
+        "Corrected": "SCREAM",
         "Note": "6.8"
     },
     {
-        "Film": "Moi capitaine",
+        "Original": "Moi capitaine",
+        "Corrected": "Moi capitaine",
         "Note": "7.1"
     },
     {
-        "Film": "Toute la beauté et le sang versé",
+        "Original": "Toute la beauté et le sang versé",
+        "Corrected": "Toute la beauté et le sang versé",
         "Note": "7.5"
     },
     {
-        "Film": "AMERICAN NIGHTMARE",
+        "Original": "AMERICAN NIGHTMARE",
+        "Corrected": "AMERICAN NIGHTMARE",
         "Note": "5"
     },
     {
-        "Film": "AMERICAN NIGHTMARE 2 : ANARCHY",
+        "Original": "AMERICAN NIGHTMARE 2 : ANARCHY",
+        "Corrected": "AMERICAN NIGHTMARE 2 : ANARCHY",
         "Note": "5.5"
     },
     {
-        "Film": "ANNABELLE",
+        "Original": "ANNABELLE",
+        "Corrected": "ANNABELLE",
         "Note": "4"
     },
     {
-        "Film": "ANNABELLE 2 LA CREATION DU MAL",
+        "Original": "ANNABELLE 2 LA CREATION DU MAL",
+        "Corrected": "ANNABELLE 2 LA CREATION DU MAL",
         "Note": "5.4"
     },
     {
-        "Film": "Clockers",
+        "Original": "Clockers",
+        "Corrected": "Clockers",
         "Note": "6.8"
     },
     {
-        "Film": "INSIDE MAN",
+        "Original": "INSIDE MAN",
+        "Corrected": "INSIDE MAN",
         "Note": "5.9"
     },
     {
-        "Film": "Jungle Fever",
+        "Original": "Jungle Fever",
+        "Corrected": "Jungle Fever",
         "Note": "6.7"
     },
     {
-        "Film": "LA NONNE",
+        "Original": "LA NONNE",
+        "Corrected": "LA NONNE",
         "Note": "4.1"
     },
     {
-        "Film": "Les Animaux fantastiques",
+        "Original": "Les Animaux fantastiques",
+        "Corrected": "Les Animaux fantastiques",
         "Note": "6.3"
     },
     {
-        "Film": "Love Actually",
+        "Original": "Love Actually",
+        "Corrected": "Love Actually",
         "Note": "6.3"
     },
     {
-        "Film": "MO BETTER BLUES",
+        "Original": "MO BETTER BLUES",
+        "Corrected": "MO BETTER BLUES",
         "Note": "6.9"
     },
     {
-        "Film": "Ni Chaînes Ni Maîtres",
+        "Original": "Ni Chaînes Ni Maîtres",
+        "Corrected": "Ni Chaînes Ni Maîtres",
         "Note": "6.4"
     },
     {
-        "Film": "OLDBOY",
+        "Original": "OLDBOY",
+        "Corrected": "OLDBOY",
         "Note": "4.7"
     },
     {
-        "Film": "Smaïn déconne finement",
+        "Original": "Smaïn déconne finement",
+        "Corrected": "Smaïn déconne finement",
         "Note": "Non noté"
     },
     {
-        "Film": "Accéder au centre d'aide",
+        "Original": "Accéder au centre d'aide",
+        "Corrected": "Accéder au centre d'aide",
         "Note": "Non noté"
     },
     {
-        "Film": "Gladiator II",
+        "Original": "Gladiator II",
+        "Corrected": "Gladiator II",
         "Note": "5.6"
     },
     {
-        "Film": "L'Amour ouf",
+        "Original": "L'Amour ouf",
+        "Corrected": "L'Amour ouf",
         "Note": "6.8"
     },
     {
-        "Film": "Le Panache",
+        "Original": "Le Panache",
+        "Corrected": "Le Panache",
         "Note": "6"
     },
     {
-        "Film": "JURE N°2",
+        "Original": "JURE N°2",
+        "Corrected": "JURE N°2",
         "Note": "6.8"
     },
     {
-        "Film": "Cinémas à Marseille",
+        "Original": "Cinémas à Marseille",
+        "Corrected": "Cinémas à Marseille",
         "Note": "Non noté"
     },
     {
-        "Film": "Cinémas à Toulouse",
+        "Original": "Cinémas à Toulouse",
+        "Corrected": "Cinémas à Toulouse",
         "Note": "Non noté"
     },
     {
-        "Film": "Cinémas à Nice",
+        "Original": "Cinémas à Nice",
+        "Corrected": "Cinémas à Nice",
         "Note": "Non noté"
     },
     {
-        "Film": "Cinémas autour de moi",
+        "Original": "Cinémas autour de moi",
+        "Corrected": "Cinémas autour de moi",
         "Note": "Non noté"
     },
     {
-        "Film": "CinéPass",
+        "Original": "CinéPass",
+        "Corrected": "CinéPass",
         "Note": "Non noté"
     },
     {
-        "Film": "CinéCartes",
+        "Original": "CinéCartes",
+        "Corrected": "CinéCartes",
         "Note": "Non noté"
     },
     {
-        "Film": "4DX",
+        "Original": "4DX",
+        "Corrected": "4DX",
         "Note": "Non noté"
     },
     {
-        "Film": "Metropolitan Opera",
+        "Original": "Metropolitan Opera",
+        "Corrected": "Metropolitan Opera",
         "Note": "Non noté"
     },
     {
-        "Film": "Toutes les actualités",
+        "Original": "Toutes les actualités",
+        "Corrected": "Toutes les actualités",
         "Note": "Non noté"
     },
     {
-        "Film": "Fondation Jérôme Seydoux-Pathé",
+        "Original": "Fondation Jérôme Seydoux-Pathé",
+        "Corrected": "Fondation Jérôme Seydoux-Pathé",
         "Note": "Non noté"
     },
     {
-        "Film": "Accessibilité : non conforme",
+        "Original": "Accessibilité : non conforme",
+        "Corrected": "Accessibilité : non conforme",
         "Note": "Non noté"
     },
     {
-        "Film": "CinéPass",
+        "Original": "CinéPass",
+        "Corrected": "CinéPass",
         "Note": "Non noté"
     },
     {
-        "Film": "En fanfare",
+        "Original": "En fanfare",
+        "Corrected": "En fanfare",
         "Note": "6.2"
     },
     {
-        "Film": "Le Grand Noël des animaux",
+        "Original": "Le Grand Noël des animaux",
+        "Corrected": "Le Grand Noël des animaux",
         "Note": "Non noté"
     },
     {
-        "Film": "Heretic",
+        "Original": "Heretic",
+        "Corrected": "Heretic",
         "Note": "6.8"
     },
     {
-        "Film": "Les Boules de Noël",
+        "Original": "Les Boules de Noël",
+        "Corrected": "Les Boules de Noël",
         "Note": "Non noté"
     },
     {
-        "Film": "Les Reines du drame",
+        "Original": "Les Reines du drame",
+        "Corrected": "Les Reines du drame",
         "Note": "7.2"
     },
     {
-        "Film": "Vaiana 2",
+        "Original": "Vaiana 2",
+        "Corrected": "Vaiana 2",
         "Note": "Non noté"
     },
     {
-        "Film": "Le Dernier des Mohicans",
+        "Original": "Il était une fois... Le Dernier des Mohicans",
+        "Corrected": "Le Dernier des Mohicans",
         "Note": "7"
     },
     {
-        "Film": "Placebo: This Search for Meaning",
+        "Original": "Placebo: This Search for Meaning",
+        "Corrected": "Placebo: This Search for Meaning",
         "Note": "Non noté"
     },
     {
-        "Film": "La reine des neiges, l'histoire oubliée",
+        "Original": "La reine des neiges, l'histoire oubliée",
+        "Corrected": "La reine des neiges, l'histoire oubliée",
         "Note": "Non noté"
     },
     {
-        "Film": "In the Mood for Love",
+        "Original": "La séance Cine Club : In the Mood for Love",
+        "Corrected": "In the Mood for Love",
         "Note": "7.8"
     },
     {
-        "Film": "Conclave",
+        "Original": "Conclave",
+        "Corrected": "Conclave",
         "Note": "Non noté"
     },
     {
-        "Film": "Leurs Enfants après eux",
+        "Original": "Leurs Enfants après eux",
+        "Corrected": "Leurs Enfants après eux",
         "Note": "7.7"
     },
     {
-        "Film": "Daddio",
+        "Original": "Daddio",
+        "Corrected": "Daddio",
         "Note": "6.5"
     },
     {
-        "Film": "Limonov : La ballade",
+        "Original": "Limonov : La ballade",
+        "Corrected": "Limonov : La ballade",
         "Note": "6.2"
     },
     {
-        "Film": "Niko le petit renne, mission Père Noël",
+        "Original": "Niko le petit renne, mission Père Noël",
+        "Corrected": "Niko le petit renne, mission Père Noël",
         "Note": "Non noté"
     },
     {
-        "Film": "Wicked",
+        "Original": "Wicked",
+        "Corrected": "Wicked",
         "Note": "7"
     },
     {
-        "Film": "SAW",
+        "Original": "Les Vendredis de l'Horreur : SAW (premier opus)",
+        "Corrected": "SAW",
         "Note": "6.6"
     },
     {
-        "Film": "Solo Leveling ReAwakening",
+        "Original": "Les Rendez-vous de l'animé: Solo Leveling ReAwakening",
+        "Corrected": "Solo Leveling ReAwakening",
         "Note": "5"
     },
     {
-        "Film": "Solo Leveling - ReAwakening",
+        "Original": "Solo Leveling - ReAwakening",
+        "Corrected": "Solo Leveling - ReAwakening",
         "Note": "Non noté"
     },
     {
-        "Film": "Laufey's A Night at the Symphony: Hollywood Bowl",
+        "Original": "Laufey's A Night at the Symphony: Hollywood Bowl",
+        "Corrected": "Laufey's A Night at the Symphony: Hollywood Bowl",
         "Note": "Non noté"
     },
     {
-        "Film": "Le déluge",
+        "Original": "La Séance live : Le déluge",
+        "Corrected": "Le déluge",
         "Note": "6.9"
     },
     {
-        "Film": "Les Femmes au balcon",
+        "Original": "Les Femmes au balcon",
+        "Corrected": "Les Femmes au balcon",
         "Note": "6.1"
     },
     {
-        "Film": "Vingt Dieux",
+        "Original": "Vingt Dieux",
+        "Corrected": "Vingt Dieux",
         "Note": "7.2"
     },
     {
-        "Film": "Jamais sans mon psy",
+        "Original": "Jamais sans mon psy",
+        "Corrected": "Jamais sans mon psy",
         "Note": "Non noté"
     },
     {
-        "Film": "Le Noël de Teddy l'ourson",
+        "Original": "Le Noël de Teddy l'ourson",
+        "Corrected": "Le Noël de Teddy l'ourson",
         "Note": "Non noté"
     },
     {
-        "Film": "Le Seigneur des Anneaux : La Guerre des Rohirrim",
+        "Original": "Le Seigneur des Anneaux : La Guerre des Rohirrim",
+        "Corrected": "Le Seigneur des Anneaux : La Guerre des Rohirrim",
         "Note": "Non noté"
     },
     {
-        "Film": "Le grand Noël des animaux",
+        "Original": "Ma mini-séance : Le grand Noël des animaux",
+        "Corrected": "Le grand Noël des animaux",
         "Note": "Non noté"
     },
     {
-        "Film": "Saint-Ex",
+        "Original": "Saint-Ex",
+        "Corrected": "Saint-Ex",
         "Note": "5.4"
     },
     {
-        "Film": "NIKO LE PETIT RENNE, MISSION PERE NOËL",
+        "Original": "Séance spéciale en compagnie du Père Noël : NIKO LE PETIT RENNE, MISSION PERE NOËL",
+        "Corrected": "NIKO LE PETIT RENNE, MISSION PERE NOËL",
         "Note": "Non noté"
     },
     {
-        "Film": "Daft Punk & Leiji Matsumoto’s Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+        "Original": "Daft Punk & Leiji Matsumoto’s Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+        "Corrected": "Daft Punk & Leiji Matsumoto’s Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
         "Note": "7.6"
     },
     {
-        "Film": "Sarah Bernhardt, La Divine",
+        "Original": "Elle(s) au cinéma : Sarah Bernhardt, La Divine",
+        "Corrected": "Sarah Bernhardt, La Divine",
         "Note": "5.8"
     },
     {
-        "Film": "Batman Begins",
+        "Original": "La séance 35 mm : Batman Begins",
+        "Corrected": "Batman Begins",
         "Note": "7"
     },
     {
-        "Film": "Les Aventuriers de l'Arche perdue",
+        "Original": "La séance 35 mm : Les Aventuriers de l'Arche perdue",
+        "Corrected": "Les Aventuriers de l'Arche perdue",
         "Note": "7.7"
     },
     {
-        "Film": "Sarah Bernhardt, La Divine",
+        "Original": "La Séance live : Sarah Bernhardt, La Divine",
+        "Corrected": "Sarah Bernhardt, La Divine",
         "Note": "5.8"
     },
     {
-        "Film": "Conte nuptial",
+        "Original": "Conte nuptial",
+        "Corrected": "Conte nuptial",
         "Note": "Non noté"
     },
     {
-        "Film": "Kraven le chasseur",
+        "Original": "Kraven le chasseur",
+        "Corrected": "Kraven le chasseur",
         "Note": "Non noté"
     },
     {
-        "Film": "Indiana Jones et le Temple maudit",
+        "Original": "La séance 35 mm : Indiana Jones et le Temple maudit",
+        "Corrected": "Indiana Jones et le Temple maudit",
         "Note": "7.1"
     },
     {
-        "Film": "The Dark Knight",
+        "Original": "La séance 35 mm : The Dark Knight",
+        "Corrected": "The Dark Knight",
         "Note": "6.9"
     },
     {
-        "Film": "Le Beau rôle",
-        "Note": "4.4"
+        "Original": "Le Beau rôle",
+        "Corrected": "Le Beau rôle",
+        "Note": "6.4"
     },
     {
-        "Film": "Mon beau sapin",
+        "Original": "Mon beau sapin",
+        "Corrected": "Mon beau sapin",
         "Note": "5.6"
     },
     {
-        "Film": "Mufasa: Le Roi Lion",
+        "Original": "Mufasa: Le Roi Lion",
+        "Corrected": "Mufasa: Le Roi Lion",
         "Note": "Non noté"
     },
     {
-        "Film": "Oh, Canada",
+        "Original": "Oh, Canada",
+        "Corrected": "Oh, Canada",
         "Note": "5.7"
     },
     {
-        "Film": "Sarah Bernhardt, la divine",
+        "Original": "Sarah Bernhardt, la divine",
+        "Corrected": "Sarah Bernhardt, la divine",
         "Note": "5.8"
     },
     {
-        "Film": "Sous écrous",
+        "Original": "Sous écrous",
+        "Corrected": "Sous écrous",
         "Note": "5.4"
     },
     {
-        "Film": "The Wall",
+        "Original": "The Wall",
+        "Corrected": "The Wall",
         "Note": "7.9"
     },
     {
-        "Film": "Un Noël en famille",
+        "Original": "Un Noël en famille",
+        "Corrected": "Un Noël en famille",
         "Note": "Non noté"
     },
     {
-        "Film": "Nosferatu",
-        "Note": "7.3"
-    },
-    {
-        "Film": "Mufasa: le roi lion",
+        "Original": "Les Vendredis de l'Horreur : Nosferatu",
+        "Corrected": "Nosferatu",
         "Note": "Non noté"
     },
     {
-        "Film": "SONIC 3 - Le FILM",
+        "Original": "Séance All Inclusive : Mufasa: le roi lion",
+        "Corrected": "Mufasa: le roi lion",
         "Note": "Non noté"
     },
     {
-        "Film": "Joli joli",
+        "Original": "SONIC 3 - Le FILM",
+        "Corrected": "SONIC 3 - Le FILM",
         "Note": "Non noté"
     },
     {
-        "Film": "Le Déluge",
+        "Original": "Joli joli",
+        "Corrected": "Joli joli",
+        "Note": "Non noté"
+    },
+    {
+        "Original": "Le Déluge",
+        "Corrected": "Le Déluge",
         "Note": "6.9"
     },
     {
-        "Film": "Les Cadeaux",
+        "Original": "Les Cadeaux",
+        "Corrected": "Les Cadeaux",
         "Note": "Non noté"
     },
     {
-        "Film": "Mon inséparable",
+        "Original": "Mon inséparable",
+        "Corrected": "Mon inséparable",
         "Note": "7.3"
     },
     {
-        "Film": "Nosferatu",
+        "Original": "Nosferatu",
+        "Corrected": "Nosferatu",
         "Note": "7.3"
     },
     {
-        "Film": "Planète B",
+        "Original": "Planète B",
+        "Corrected": "Planète B",
         "Note": "6.1"
     },
     {
-        "Film": "Un ours dans le Jura",
+        "Original": "Un ours dans le Jura",
+        "Corrected": "Un ours dans le Jura",
         "Note": "6"
     },
     {
-        "Film": "L'Amour au présent",
+        "Original": "L'Amour au présent",
+        "Corrected": "L'Amour au présent",
         "Note": "6.8"
     },
     {
-        "Film": "The Dark Knight Rises",
+        "Original": "La séance 35 mm : The Dark Knight Rises",
+        "Corrected": "The Dark Knight Rises",
         "Note": "6.9"
     },
     {
-        "Film": "La Source",
+        "Original": "La Source",
+        "Corrected": "La Source",
         "Note": "7.6"
     },
     {
-        "Film": "Mika Ex Machina",
+        "Original": "Mika Ex Machina",
+        "Corrected": "Mika Ex Machina",
         "Note": "Non noté"
     },
     {
-        "Film": "Quiet Life",
+        "Original": "Quiet Life",
+        "Corrected": "Quiet Life",
         "Note": "6.9"
     },
     {
-        "Film": "Six jours",
+        "Original": "Six jours",
+        "Corrected": "Six jours",
         "Note": "7.3"
     },
     {
-        "Film": "Totto-chan, la petite fille à la fenêtre",
+        "Original": "Totto-chan, la petite fille à la fenêtre",
+        "Corrected": "Totto-chan, la petite fille à la fenêtre",
         "Note": "7.3"
     },
     {
-        "Film": "Brûle le sang",
+        "Original": "Brûle le sang",
+        "Corrected": "Brûle le sang",
         "Note": "Non noté"
     },
     {
-        "Film": "Criminal Squad: Pantera",
+        "Original": "Criminal Squad: Pantera",
+        "Corrected": "Criminal Squad: Pantera",
         "Note": "Non noté"
     },
     {
-        "Film": "Hiver à Sokcho",
+        "Original": "Hiver à Sokcho",
+        "Corrected": "Hiver à Sokcho",
         "Note": "7.1"
     },
     {
-        "Film": "La chambre d'à côté",
+        "Original": "La chambre d'à côté",
+        "Corrected": "La chambre d'à côté",
         "Note": "6.6"
     },
     {
-        "Film": "La Fille d’un grand amour",
+        "Original": "La Fille d’un grand amour",
+        "Corrected": "La Fille d’un grand amour",
         "Note": "Non noté"
     },
     {
-        "Film": "L'Exorciste",
+        "Original": "Les Vendredis de l'Horreur : L'Exorciste",
+        "Corrected": "L'Exorciste",
         "Note": "7.3"
     },
     {
-        "Film": "Babygirl",
+        "Original": "Babygirl",
+        "Corrected": "Babygirl",
         "Note": "Non noté"
     },
     {
-        "Film": "Je suis toujours là",
+        "Original": "Je suis toujours là",
+        "Corrected": "Je suis toujours là",
         "Note": "Non noté"
     },
     {
-        "Film": "Le dossier Maldoror",
+        "Original": "Le dossier Maldoror",
+        "Corrected": "Le dossier Maldoror",
         "Note": "7"
     },
     {
-        "Film": "Le Quatrième mur",
+        "Original": "Le Quatrième mur",
+        "Corrected": "Le Quatrième mur",
         "Note": "8.1"
     },
     {
-        "Film": "Mémoires d'un escargot",
+        "Original": "Mémoires d'un escargot",
+        "Corrected": "Mémoires d'un escargot",
         "Note": "7.7"
     },
     {
-        "Film": "Par amour",
+        "Original": "Par amour",
+        "Corrected": "Par amour",
         "Note": "7.9"
     },
     {
-        "Film": "Spectateurs !",
+        "Original": "Spectateurs !",
+        "Corrected": "Spectateurs !",
         "Note": "5.7"
     },
     {
-        "Film": "The Wolfman",
+        "Original": "The Wolfman",
+        "Corrected": "The Wolfman",
         "Note": "Non noté"
     },
     {
-        "Film": "Un monde merveilleux",
+        "Original": "Un monde merveilleux",
+        "Corrected": "Un monde merveilleux",
         "Note": "7.1"
     },
     {
-        "Film": "Un monde violent",
+        "Original": "Un monde violent",
+        "Corrected": "Un monde violent",
         "Note": "Non noté"
     },
     {
-        "Film": "A Traveler’s Needs",
+        "Original": "A Traveler’s Needs",
+        "Corrected": "A Traveler’s Needs",
         "Note": "Non noté"
     },
     {
-        "Film": "Better Man",
+        "Original": "Better Man",
+        "Corrected": "Better Man",
         "Note": "Non noté"
     },
     {
-        "Film": "Jouer avec le feu",
+        "Original": "Jouer avec le feu",
+        "Corrected": "Jouer avec le feu",
         "Note": "6.2"
     },
     {
-        "Film": "Toutes pour une",
+        "Original": "Toutes pour une",
+        "Corrected": "Toutes pour une",
         "Note": "Non noté"
     },
     {
-        "Film": "Vol à haut risque",
+        "Original": "Vol à haut risque",
+        "Corrected": "Vol à haut risque",
         "Note": "Non noté"
     },
     {
-        "Film": "Aïda",
+        "Original": "Aïda (Metropolitan Opera)",
+        "Corrected": "Aïda",
         "Note": "5.7"
     },
     {
-        "Film": "Le Jardin zen",
+        "Original": "Le Jardin zen",
+        "Corrected": "Le Jardin zen",
         "Note": "Non noté"
     },
     {
-        "Film": "Slocum et moi",
+        "Original": "Slocum et moi",
+        "Corrected": "Slocum et moi",
         "Note": "6.5"
     },
     {
-        "Film": "Une nuit au zoo",
+        "Original": "Une nuit au zoo",
+        "Corrected": "Une nuit au zoo",
         "Note": "Non noté"
     },
     {
-        "Film": "CINE-RENCONTRE \"ÊTRE HUMAIN\" de Shirley Souagnon",
+        "Original": "CINE-RENCONTRE \"ÊTRE HUMAIN\" de Shirley Souagnon",
+        "Corrected": "CINE-RENCONTRE \"ÊTRE HUMAIN\" de Shirley Souagnon",
         "Note": "Non noté"
     },
     {
-        "Film": "Fidelio",
+        "Original": "Fidelio (Metropolitan Opera)",
+        "Corrected": "Fidelio",
         "Note": "7.7"
     },
     {
-        "Film": "Accéder au centre d'aide",
+        "Original": "Accéder au centre d'aide",
+        "Corrected": "Accéder au centre d'aide",
         "Note": "Non noté"
     },
     {
-        "Film": "Gladiator II",
+        "Original": "Gladiator II",
+        "Corrected": "Gladiator II",
         "Note": "5.6"
     },
     {
-        "Film": "L'Amour ouf",
+        "Original": "L'Amour ouf",
+        "Corrected": "L'Amour ouf",
         "Note": "6.8"
     },
     {
-        "Film": "Le Panache",
+        "Original": "Le Panache",
+        "Corrected": "Le Panache",
         "Note": "6"
     },
     {
-        "Film": "JURE N°2",
+        "Original": "JURE N°2",
+        "Corrected": "JURE N°2",
         "Note": "6.8"
     },
     {
-        "Film": "Cinémas à Marseille",
+        "Original": "Cinémas à Marseille",
+        "Corrected": "Cinémas à Marseille",
         "Note": "Non noté"
     },
     {
-        "Film": "Cinémas à Toulouse",
+        "Original": "Cinémas à Toulouse",
+        "Corrected": "Cinémas à Toulouse",
         "Note": "Non noté"
     },
     {
-        "Film": "Cinémas à Nice",
+        "Original": "Cinémas à Nice",
+        "Corrected": "Cinémas à Nice",
         "Note": "Non noté"
     },
     {
-        "Film": "Cinémas autour de moi",
+        "Original": "Cinémas autour de moi",
+        "Corrected": "Cinémas autour de moi",
         "Note": "Non noté"
     },
     {
-        "Film": "CinéPass",
+        "Original": "CinéPass",
+        "Corrected": "CinéPass",
         "Note": "Non noté"
     },
     {
-        "Film": "CinéCartes",
+        "Original": "CinéCartes",
+        "Corrected": "CinéCartes",
         "Note": "Non noté"
     },
     {
-        "Film": "4DX",
+        "Original": "4DX",
+        "Corrected": "4DX",
         "Note": "Non noté"
     },
     {
-        "Film": "Metropolitan Opera",
+        "Original": "Metropolitan Opera",
+        "Corrected": "Metropolitan Opera",
         "Note": "Non noté"
     },
     {
-        "Film": "Toutes les actualités",
+        "Original": "Toutes les actualités",
+        "Corrected": "Toutes les actualités",
         "Note": "Non noté"
     },
     {
-        "Film": "Fondation Jérôme Seydoux-Pathé",
+        "Original": "Fondation Jérôme Seydoux-Pathé",
+        "Corrected": "Fondation Jérôme Seydoux-Pathé",
         "Note": "Non noté"
     },
     {
-        "Film": "Accessibilité : non conforme",
+        "Original": "Accessibilité : non conforme",
+        "Corrected": "Accessibilité : non conforme",
         "Note": "Non noté"
     }
 ]
